@@ -9,3 +9,7 @@ checkout flow, and CI config live here.
 npm install
 npm start
 ```
+
+## CI
+
+Builds run via GitHub Actions on every push and PR.
