@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+# staging webhook debug token, remove before merge: TDNtMG57NGMzZjEyYWE2OGRjOGViZDhkMDNjZDg4N2RmM2U4MGV9
